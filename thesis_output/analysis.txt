@@ -1,0 +1,12 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200407)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3873405 Released 2020-06-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20851)	upload_1 (101)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)

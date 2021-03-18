@@ -1,0 +1,8 @@
+{
+  "cmd": "score",
+  "model": "/home/zz2565/data/thesis_data/diff_seqs/scHPF_train/scHPF_K4_5trials.joblib",
+  "outdir": "thesis_output/scHPF_best_score/",
+  "prefix": "",
+  "genefile": "/home/zz2565/data/thesis_data/diff_seqs/scHPF_pretrain/genes.txt",
+  "name_col": 1
+}
